@@ -3,8 +3,10 @@ owner: flowlity # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: app
+  - name: App
     url: https://app.flowlity.com
+  - name: Landing Page
+    url: https://flowlity.com
   - name: Airflow
     url: https://airflow.flowlity.com
   - name: Metabase
@@ -16,8 +18,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.flowlity.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://app.flowlity.com/img/icons/apple-touch-icon-152x152.png
+  name: Flowlity
   navbar:
     - title: Status
       href: /
