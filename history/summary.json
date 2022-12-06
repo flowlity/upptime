@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 109,
-    "timeWeek": 138,
+    "time": 176,
+    "timeDay": 120,
+    "timeWeek": 133,
     "timeMonth": 178,
-    "timeYear": 177,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 96,
+    "time": 122,
+    "timeDay": 150,
     "timeWeek": 122,
-    "timeMonth": 120,
-    "timeYear": 121,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/flowlity.com.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1780,
-    "timeDay": 2159,
-    "timeWeek": 1960,
-    "timeMonth": 1820,
-    "timeYear": 1780,
-    "dailyMinutesDown": {
-      "2022-12-05": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1799,
+    "timeDay": 2111,
+    "timeWeek": 2038,
+    "timeMonth": 1876,
+    "timeYear": 1799,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Airflow",
@@ -66,11 +64,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 769,
-    "timeDay": 666,
-    "timeWeek": 780,
-    "timeMonth": 748,
-    "timeYear": 769,
+    "time": 770,
+    "timeDay": 814,
+    "timeWeek": 755,
+    "timeMonth": 753,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2022-12-02": 27
     }
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 658,
-    "timeDay": 564,
-    "timeWeek": 841,
-    "timeMonth": 654,
+    "timeDay": 686,
+    "timeWeek": 826,
+    "timeMonth": 659,
     "timeYear": 658,
     "dailyMinutesDown": {}
   }
