@@ -40,19 +40,19 @@
     "url": "https://flowlity.com",
     "icon": "https://icons.duckduckgo.com/ip3/flowlity.com.ico",
     "slug": "landing-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1776,
-    "timeDay": 2125,
-    "timeWeek": 1935,
-    "timeMonth": 1798,
-    "timeYear": 1776,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1782,
+    "timeDay": 2166,
+    "timeWeek": 1969,
+    "timeMonth": 1810,
+    "timeYear": 1782,
     "dailyMinutesDown": {
-      "2023-01-03": 0
+      "2023-01-03": 7
     }
   },
   {
