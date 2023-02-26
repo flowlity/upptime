@@ -27,27 +27,25 @@
     "slug": "database",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 132,
     "timeWeek": 127,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2023-02-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Landing Page",
     "url": "https://flowlity.com",
     "icon": "https://icons.duckduckgo.com/ip3/flowlity.com.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +54,9 @@
     "timeWeek": 1920,
     "timeMonth": 1791,
     "timeYear": 1750,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-26": 0
+    }
   },
   {
     "name": "Airflow",
@@ -65,9 +65,9 @@
     "slug": "airflow",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
     "time": 796,
     "timeDay": 901,
@@ -75,7 +75,6 @@
     "timeMonth": 818,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2023-02-26": 5,
       "2023-01-05": 524,
       "2023-01-04": 514,
       "2022-12-08": 23,
