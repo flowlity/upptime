@@ -25,10 +25,10 @@
     "url": "psql-flexible.postgres.database.azure.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
@@ -36,7 +36,9 @@
     "timeWeek": 130,
     "timeMonth": 129,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-26": 1
+    }
   },
   {
     "name": "Landing Page",
@@ -61,10 +63,10 @@
     "url": "https://airflow.flowlity.com",
     "icon": "https://icons.duckduckgo.com/ip3/airflow.flowlity.com.ico",
     "slug": "airflow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
     "time": 796,
@@ -73,6 +75,7 @@
     "timeMonth": 820,
     "timeYear": 796,
     "dailyMinutesDown": {
+      "2023-02-26": 1,
       "2023-01-05": 524,
       "2023-01-04": 514,
       "2022-12-08": 23,
