@@ -66,9 +66,9 @@
     "slug": "airflow",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 783,
     "timeDay": 722,
@@ -76,7 +76,6 @@
     "timeMonth": 759,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2023-06-09": 9,
       "2023-01-05": 524,
       "2023-01-04": 514,
       "2022-12-08": 23,
@@ -88,9 +87,9 @@
     "url": "https://metabase.flowlity.com",
     "icon": "https://icons.duckduckgo.com/ip3/metabase.flowlity.com.ico",
     "slug": "metabase",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
@@ -100,6 +99,7 @@
     "timeMonth": 599,
     "timeYear": 622,
     "dailyMinutesDown": {
+      "2023-06-09": 0,
       "2023-01-05": 512,
       "2023-01-04": 513
     }
