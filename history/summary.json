@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 430,
-    "timeDay": 384,
-    "timeWeek": 414,
-    "timeMonth": 424,
+    "timeDay": 354,
+    "timeWeek": 416,
+    "timeMonth": 417,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-09-15": 16,
-      "2023-06-21": 21
+      "2023-09-15": 16
     }
   },
   {
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 83,
-    "timeWeek": 102,
-    "timeMonth": 108,
+    "timeDay": 82,
+    "timeWeek": 103,
+    "timeMonth": 106,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -49,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1848,
-    "timeDay": 1608,
-    "timeWeek": 2531,
-    "timeMonth": 2616,
-    "timeYear": 1896,
+    "time": 1850,
+    "timeDay": 2964,
+    "timeWeek": 2628,
+    "timeMonth": 2600,
+    "timeYear": 1902,
     "dailyMinutesDown": {
       "2024-05-17": 45,
       "2024-05-16": 37,
@@ -77,15 +76,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 838,
-    "timeDay": 727,
-    "timeWeek": 814,
-    "timeMonth": 843,
-    "timeYear": 845,
+    "timeDay": 725,
+    "timeWeek": 802,
+    "timeMonth": 833,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2024-03-22": 17,
       "2023-10-06": 57,
-      "2023-10-05": 22,
-      "2023-06-21": 21
+      "2023-10-05": 22
     }
   },
   {
@@ -94,15 +92,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/metabase.flowlity.com.ico",
     "slug": "metabase",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.85%",
     "time": 741,
-    "timeDay": 513,
-    "timeWeek": 643,
-    "timeMonth": 900,
+    "timeDay": 510,
+    "timeWeek": 646,
+    "timeMonth": 890,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2024-01-19": 22,
