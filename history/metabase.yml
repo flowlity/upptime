@@ -1,7 +1,7 @@
 url: https://metabase.flowlity.com
-status: up
-code: 200
-responseTime: 23500
-lastUpdated: 2025-07-06T00:02:15.560Z
+status: down
+code: 500
+responseTime: 25180
+lastUpdated: 2025-07-06T14:17:44.054Z
 startTime: 2022-11-04T02:21:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
