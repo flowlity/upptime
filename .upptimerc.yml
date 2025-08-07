@@ -6,7 +6,7 @@ sites:
   - name: App
     url: https://app.flowlity.com
   - name: Database
-    url: psql-flexible.postgres.database.azure.com
+    url: psql-flowlity-production.postgres.database.azure.com
     check: "tcp-ping"
     port: 5432
   - name: Landing Page
