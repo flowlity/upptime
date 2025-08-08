@@ -1,7 +1,7 @@
 url: psql-flowlity-production.postgres.database.azure.com
 status: up
 code: 200
-responseTime: 84
-lastUpdated: 2025-08-07T23:02:05.540Z
+responseTime: 108
+lastUpdated: 2025-08-08T23:02:05.533Z
 startTime: 2022-11-04T15:17:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
